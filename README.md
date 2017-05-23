@@ -16,5 +16,9 @@ Start
 
 5. first commit : seonhokim - ubunto : branch
 
-6. more : more
-7. more : more
+6. more : more 명훈
+7. more : more 명훈
+
+8.수정 승호
+
+9.asdasd 승호
