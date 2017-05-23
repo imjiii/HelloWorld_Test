@@ -15,4 +15,4 @@ Start
 4. thirdbranch commit : seonhkim
 
 5. first commit : seonhokim - ubunto : branch
-6. hi hello~ my name is wodnrdl.
+6. hi helo~ my name is wodnrdl.
