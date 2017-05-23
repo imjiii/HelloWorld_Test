@@ -16,4 +16,8 @@ Start
 
 5. first commit : seonhokim - ubunto : branch
 6. hi helo~ my name is wodnrdl.
+<<<<<<< HEAD
 7. spdsaf
+=======
+7. tnwjd
+>>>>>>> origin1
