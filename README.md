@@ -15,3 +15,5 @@ Start
 4. thirdbranch commit : seonhkim
 
 5. first commit : seonhokim - ubunto : branch
+6.수정
+
