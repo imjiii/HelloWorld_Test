@@ -17,3 +17,6 @@ Start
 5. first commit : seonhokim - ubunto : branch
 6.수정
 
+6.asdasd
+
+
