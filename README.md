@@ -18,3 +18,4 @@ Start
 
 6. commit young
 6. first commit : jiyoungim
+7. second commit : jiyoung im
