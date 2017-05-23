@@ -17,3 +17,5 @@ Start
 5. first commit : seonhokim - ubunto : branch
 
 6. first commit : jiyoungim
+
+7. second commit : jiyoungim
