@@ -13,5 +13,5 @@ Start
 2. firstbranch commit : seonhokim
 3. secondbranch commit : seonhokim
 4. thirdbranch commit : seonhkim
-
 5. first commit : seonhokim - ubunto : branch
+6. second commit : ㅇㅅㅇ...
