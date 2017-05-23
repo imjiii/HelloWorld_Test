@@ -16,3 +16,4 @@ Start
 5. first commit : seonhokim - ubunto : branch
 6. second commit : ㅇㅅㅇ...
 7. ㅇㅅㅇ ㅋㅋㅋ
+7. ㅋㅋㅋz
